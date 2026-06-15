@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="RegixScanner/RegixScanner.vcxproj" Id="b2873087-3f31-4ac9-a748-09a86aa7c537" />
+</Solution>

@@ -1,0 +1,12 @@
+# Visual Studio temporary and cache folders
+.vs/
+x64/
+Debug/
+Release/
+*.ipch
+*.aps
+*.ncb
+*.opensdf
+*.sdf
+*.user
+*.suo
